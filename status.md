@@ -1,1 +1,1 @@
-Currently unable to reach 192.168.101.116, 192.168.101.118, 192.168.101.120, 192.168.101.122, 192.168.101.124
+Currently unable to reach NB - FCP16NB - FCP18, NB - FCP20, NB - FCP22, NB - FCP24, 
