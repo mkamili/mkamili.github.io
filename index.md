@@ -2,4 +2,4 @@
 
 Test Ahmad, Hafizi
 
-Go to [Page 2](mkamili.github.io/page2.md)
+Go to [Page 2](./page2.md)
